@@ -11,10 +11,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Three Mile Island, industrial wetlands and Calumet Region
 uid: 9fc19ee9-6ebc-c1a8-ef43-0028fa130580
 ---
 Images of Three Mile Island, industrial wetlands and Calumet Region. ("Film still from Containment - Life After Three Mile Island" courtesy of Chris Boebel, Nick Poppy, and Christine Walley. "Industrial wetlands in Indiana's Calumet Region" and "Protesting landfills in South Chicago" courtesy of Christine Walley.)
-
