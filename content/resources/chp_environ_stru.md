@@ -5,6 +5,7 @@ description: Images of Three Mile Island, industrial wetlands and Calumet Region
   Boebel, Nick Poppy, and Christine Walley. "Industrial wetlands in Indiana's Calumet
   Region" and "Protesting landfills in South Chicago" courtesy of Christine Walley.)
 file: /courses/21a-342-environmental-struggles-fall-2004/9fc19ee96ebcc1a8ef430028fa130580_chp_environ_stru.gif
+file_size: 162996
 file_type: image/gif
 image_metadata:
   caption: ''
