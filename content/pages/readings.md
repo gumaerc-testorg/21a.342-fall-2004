@@ -35,7 +35,7 @@ Krakauer, Jon. *Into the Wild*. New York: Anchor Books, 1997. ISBN: 978038548680
 
 *Films*
 
-Kirosawa, Akira, dir. First half of {{% resource_link "aadf4154-8da4-4f3f-b23a-a2d9b626afe8" "*Dersu Uzala*" %}}.
+Kirosawa, Akira, dir. First half of [*Dersu Uzala*](http://www.imdb.com/title/tt0071411/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -49,7 +49,7 @@ Worster, Donald. "Preface," and "Selections about Linneaus, Thoreau, and Darwin.
 
 *Films*
 
-Kirosawa, Akira, dir. Second half of {{% resource_link "aadf4154-8da4-4f3f-b23a-a2d9b626afe8" "*Dersu Uzala*" %}}.
+Kirosawa, Akira, dir. Second half of [*Dersu Uzala*](http://www.imdb.com/title/tt0071411/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -63,7 +63,7 @@ Cronon, William. *Changes in the Land: Indians, Colonists, and the Ecology of Ne
 
 *Films*
 
-Anderson, Robin and Connolly, Bob, dirs. {{% resource_link "dfc7e492-6e40-41e7-9f45-00e89228ddd6" "*Black Harvest*" %}}.
+Anderson, Robin and Connolly, Bob, dirs. [*Black Harvest*](http://www.imdb.com/title/tt0103817/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -143,9 +143,9 @@ Petryna, Adriana. Chapter 3, 4, and 5 in *Life Exposed: Biological Citizens afte
 
 *Films*
 
-Boebel, Chris, and Nick Poppy, dirs. {{% resource_link "d771a42b-59cd-4cfb-8c5d-8b607f9030d6" "*Containment: Life After Three Mile Island*" %}}.
+Boebel, Chris, and Nick Poppy, dirs. [*Containment: Life After Three Mile Island*](http://www.imdb.com/title/tt0409841/).
 
-Recommended viewing: Devlin, Paul, dir. {{% resource_link "8cf555c9-cd09-4af0-9037-f2a7c8ef9f2b" "*Power Trip*" %}}.
+Recommended viewing: Devlin, Paul, dir. [*Power Trip*](http://www.imdb.com/title/tt0358647/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -159,7 +159,7 @@ Steingraber, Sandra. *Living Downstream: An Ecologist Looks at Cancer and the En
 
 *Films*
 
-Helfand, Judith, and Daniel Gold, dirs. {{% resource_link "16a6300a-4af7-4072-9677-c45f1ab35fe1" "*Blue Vinyl: A Toxic Comedy*" %}}.
+Helfand, Judith, and Daniel Gold, dirs. [*Blue Vinyl: A Toxic Comedy*](http://www.imdb.com/title/tt0303307/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
